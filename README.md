@@ -16,9 +16,24 @@
 
 - 🔭 I’m currently working on **innovative digital solutions** at **Osuria**
 - 🌱 Exploring **AI** and **advanced cloud architectures**
+- ☁️ **Digital Ocean** : Deploying scalable solutions, Droplets, App Platform, and managed databases
+- 🚀 Capable of deploying **complete infrastructures** (CI/CD, containers, cloud hosting)
 - 💡 APM certified – Agile Project Management expert
 - 🎯 Passionate about **digital transformation** and **visual communication**
 - ⚡ Fun fact: I turn complex problems into elegant code
+
+---
+
+### 📫 How to reach me
+
+| Method | Contact |
+|--------|---------|
+| 📧 Email | **ilumbujeremie1@gmail.com** |
+| 💼 LinkedIn | [Jérémie Ilumbu](https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-ilumbu-7168472a7/) |
+| 📘 Facebook | [Jeremiah Ilm](https://www.facebook.com/jeremiah.ilm) |
+| 🐙 GitHub | [@miahdev](https://github.com/miahdev) |
+
+**For business inquiries, collaborations, or project discussions – feel free to reach out!** 📩
 
 ---
 
@@ -45,13 +60,41 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+#### Cloud & Deployment
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### ☁️ Deployment Capabilities
+
+- 🚀 **Digital Ocean** : Droplets, App Platform, Kubernetes, Managed Databases
+- 🔧 CI/CD pipelines with GitHub Actions
+- 🐳 Containerization with Docker
+- 🌐 Domain management & SSL configuration
+- 📦 Cloud storage & CDN integration
+- 🔐 Server security & firewall setup
+
 ---
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-ilumbu-7168472a7/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jeremiah.ilm)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miahdev)
+<p align="left">
+  <a href="mailto:ilumbujeremie1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-ilumbu-7168472a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/jeremiah.ilm">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/miahdev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
